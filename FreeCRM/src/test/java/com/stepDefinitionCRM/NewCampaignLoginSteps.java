@@ -5,8 +5,9 @@ import org.openqa.selenium.By;
 import com.Base.LibraryCRM;
 
 import SeleniumReusables.SeleniumReusablesCRM;
-import cucumber.api.java.en.Then;
-import cucumber.api.java.en.When;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
+
 
 public class NewCampaignLoginSteps extends LibraryCRM{
 	 SeleniumReusablesCRM SU;
